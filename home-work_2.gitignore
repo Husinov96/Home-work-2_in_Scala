@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>using row,col-md,container</title>
+    <link rel="stylesheet" href="resources/bootstrap/css/bootstrap.css">
+
+</head>
+<style>
+
+</style>
+<body style="background-color:slategray;">
+<div class="container">
+    <div class="jumbotron pull-right">
+            <div class="col-md-6">
+                <h1 style="color:#23527c;font-family: cursive">Verschidene photos von ===></h1>
+            </div>
+            <div class="col-md-6">
+                <img style="width: 550px;height: 380px " class="img-circle" src="resources/images/2014_016.jpg">
+            </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+        <img style="width: 1150px;height: 480px " class="img-circle" src="resources/images/2014_014.jpg">
+        </div>
+     </div>
+    <div class="row">
+                <div class="col-md-6">
+                      <img style="width: 560px;height: 560px " class="img-thumbnail" src="resources/images/Audi.jpg">
+                </div>
+                <div class="col-md-6">
+                    <img style="width: 560px;height: 560px " class="img-thumbnail" src="resources/images/Moto.jpg">
+                </div>
+    </div>
+        <div class="row">
+            <div class="col-md-4">
+                <img style="width: 380px;height: 380px " class="img-circle" src="resources/images/2014_027.jpg">
+            </div>
+            <div class="col-md-4">
+                <img style="width: 380px;height: 380px " class="img-circle" src="resources/images/2014_027.jpg">
+            </div>
+            <div class="col-md-4">
+                <img style="width: 380px;height: 380px " class="img-circle" src="resources/images/2014_027.jpg">
+            </div>
+         </div>
+        <div class="row">
+            <div class="col-md-3">
+                <img style="width: 280px;height: 280px " class="img-thumbnail" src="resources/images/2014_041.jpg">
+            </div>
+            <div class="col-md-3">
+                <img style="width: 280px;height: 280px " class="img-thumbnail" src="resources/images/2014_041.jpg">
+            </div>
+            <div class="col-md-3">
+                <img style="width: 280px;height: 280px " class="img-thumbnail" src="resources/images/2014_041.jpg">
+            </div>
+            <div class="col-md-3">
+                <img style="width: 280px;height: 280px " class="img-thumbnail" src="resources/images/2014_041.jpg">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                <img style="width: 224px;height: 224px " class="img-circle" src="resources/images/2014_048.jpg">
+            </div>
+            <div class="col-md-2">
+                <img style="width: 224px;height: 224px " class="img-circle" src="resources/images/2014_049.jpg">
+            </div>
+            <div class="col-md-2">
+                <img style="width: 224px;height: 224px " class="img-circle" src="resources/images/2014_048.jpg">
+            </div>
+            <div class="col-md-2">
+                <img style="width: 224px;height: 224px " class="img-circle" src="resources/images/2014_049.jpg">
+            </div>
+            <div class="col-md-2">
+                <img style="width: 224px;height: 224px " class="img-circle" src="resources/images/2014_048.jpg">
+            </div>
+            <div class="col-md-2">
+                <img style="width: 224px;height: 224px " class="img-circle" src="resources/images/2014_049.jpg">
+            </div>
+        </div>
+    <div class="row">
+        <div class="col-md-1">
+            <img style="width: 93px;height: 93px " class="img-thumbnail" src="resources/images/2014_047.jpg">
+        </div>
+        <div class="col-md-1">
+            <img style="width: 93px;height: 93px " class="img-thumbnail" src="resources/images/2014_047.jpg">
+        </div>
+        <div class="col-md-1">
+            <img style="width: 93px;height: 93px " class="img-thumbnail" src="resources/images/2014_047.jpg">
+        </div>
+        <div class="col-md-1">
+            <img style="width: 93px;height: 93px " class="img-thumbnail" src="resources/images/2014_047.jpg">
+        </div>
+        <div class="col-md-1">
+            <img style="width: 93px;height: 93px " class="img-thumbnail" src="resources/images/2014_047.jpg">
+        </div>
+        <div class="col-md-1">
+            <img style="width: 93px;height: 93px " class="img-thumbnail" src="resources/images/2014_047.jpg">
+        </div>
+        <div class="col-md-1">
+            <img style="width: 93px;height: 93px " class="img-thumbnail" src="resources/images/2014_047.jpg">
+        </div>
+        <div class="col-md-1">
+            <img style="width: 93px;height: 93px " class="img-thumbnail" src="resources/images/2014_047.jpg">
+        </div>
+        <div class="col-md-1">
+            <img style="width: 93px;height: 93px " class="img-thumbnail" src="resources/images/2014_047.jpg">
+        </div>
+        <div class="col-md-1">
+            <img style="width: 93px;height: 93px " class="img-thumbnail" src="resources/images/2014_047.jpg">
+        </div>
+        <div class="col-md-1">
+            <img style="width: 93px;height: 93px " class="img-thumbnail" src="resources/images/2014_047.jpg">
+        </div>
+        <div class="col-md-1">
+            <img style="width: 93px;height: 93px " class="img-thumbnail" src="resources/images/2014_047.jpg">
+        </div>
+    </div>
+                            <div class="row">
+                                <div class="col-md-12">
+                                <img src="resources/images/Greenfield.jpg" style="width:1140px; height: 60px" class="img-circle">
+                            </div>
+                            <div class="row">
+                                <div class="col-md-1 text-left ">
+                                    <img src="resources/images/Greenfield.jpg" style="width:60px; height: 600px"class="img-circle">
+                                </div>
+                                <div class="col-md-10 text-right ">
+                                    <img src="resources/images/WorldCup.jpg" style="width:975px; height: 550px"class="img-rounded">
+                                    <h1 style="position: relative; vertical-align: text-top; top: -550px; text-align: center; font-family:proxima-nova  ;color:greenyellow">Behruz!!!</h1>
+                                </div>
+                                <div class="col-md-1 text-right ">
+                                    <img src="resources/images/Greenfield.jpg" style="width:60px; height: 600px"class="img-circle">
+                                </div>
+                                <div class="col-md-12">
+                                    <img src="resources/images/Greenfield.jpg" style="width:1170px; height: 60px"class="img-circle">
+                                </div>
+</div>
+</body>
+</html>
